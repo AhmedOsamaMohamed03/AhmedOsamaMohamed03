@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Osama</h1>
-<h3 align="center">Computer and Systems Engineering Undergraduate</h3>
+<h3 align="center">Computer and Systems Engineering Undergraduate Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedosamamohamed03&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedosamamohamed03" /> </p>
 
